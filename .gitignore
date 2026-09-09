@@ -2,6 +2,9 @@
 logs/
 *.log
 
+# Build distribution artifacts
+dist/
+
 # Windows temp
 Thumbs.db
 Desktop.ini
