@@ -1,0 +1,12 @@
+﻿{
+    "FindDuplicates":  false,
+    "MinSizeMB":  0,
+    "AgeDays":  0,
+    "Exclusions":  [
+
+                   ],
+    "Roots":  [
+                  "C:\\",
+                  "D:\\"
+              ]
+}

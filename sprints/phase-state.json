@@ -1,0 +1,12 @@
+{
+  "current_phase": "phase-2",
+  "phases": {
+    "phase-0": { "mode": "interrogate", "started_at": "2026-08-24T18:25:09+05:30", "target_min": 12, "actual_min": 13, "status": "complete", "note": "scaffold = Core.psm1 + 2 test suites, no deploy (local app)" },
+    "phase-1": { "started_at": "2026-08-24T18:38:00+05:30", "rounds_used": 1, "verdict": "REVISE", "structural_found": 4, "structural_resolved": 4, "status": "complete" },
+    "phase-2": { "started_at": "2026-08-24T18:40:00+05:30", "target_min": 25, "ceiling_min": 40, "n_generators": 7, "status": "in_progress" }
+  },
+  "deviations": [
+    "no git worktrees/branches/commits - user CLAUDE.md section 0; isolation via disjoint file ownership",
+    "no VPS deploy - local desktop app, Phase 4 delivers a shortcut not a URL"
+  ]
+}

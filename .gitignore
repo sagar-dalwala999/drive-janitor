@@ -1,0 +1,7 @@
+# Logs
+logs/
+*.log
+
+# Windows temp
+Thumbs.db
+Desktop.ini
